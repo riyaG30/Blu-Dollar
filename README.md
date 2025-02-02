@@ -1,4 +1,4 @@
-# Responsive Seat Reservation System
+#  Seat Reservation System
 
 ## Overview
 The **Responsive Seat Reservation System** is a web-based application built using the **MERN stack** that allows users to reserve seats in a cafeteria. Users can select floors, dates, times, and durations while viewing seat availability in real time. The system dynamically updates seat colors to indicate availability, reservation, or selection status.
