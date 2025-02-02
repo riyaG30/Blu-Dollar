@@ -27,11 +27,11 @@ The **Responsive Seat Reservation System** is a web-based application built usin
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/seat-reservation-system.git
+   git clone https://github.com/riyaG30/blu-dollar.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd seat-reservation-system
+   cd blu-dollar
    ```
 3. Install frontend and backend dependencies:
    ```sh
@@ -61,14 +61,12 @@ The **Responsive Seat Reservation System** is a web-based application built usin
    - Access the dashboard to monitor assigned employees.
    - Track reservations and **Blue Dollar** balance.
 
-## Screenshots
-(Add relevant screenshots showcasing the UI)
+
 
 ## Future Enhancements
 - **Enhanced User Authentication**: Multi-factor authentication.
 - **Admin Panel**: Manage reservations and seat layouts.
 - **Notifications**: Email or SMS alerts for reservations.
-- **Payment Integration**: Option for premium seat bookings.
 - **Analytics Dashboard**: Visual reports for seat usage and reservation patterns.
 
 ## Contributing
